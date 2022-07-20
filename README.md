@@ -16,12 +16,12 @@ Here, we give LeNet-5 trained under MNIST as a example.
 # How to run
 - With benign examples
  ```python
- CatchBackdoor.py
+ python CatchBackdoor.py
   ```
   
 - Without benign examples
  ```python
-CatchBackdoor_noise.py
+python CatchBackdoor_noise.py
   ```
   
 
