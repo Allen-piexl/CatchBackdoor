@@ -12,7 +12,18 @@ Here, we give LeNet-5 trained under MNIST as a example.
   ```python
  python trian_model.py
   ```
-
+  
+# How to run
+- With benign examples
+ ```python
+ CatchBackdoor.py
+  ```
+  
+- Without benign examples
+ ```python
+CatchBackdoor_noise.py
+  ```
+  
 
 # Note
 See the paper CatchBackdoor: Backdoor Testing via Critical Trojan Neural Path Fuzzing for more details.
