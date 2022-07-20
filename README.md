@@ -9,7 +9,7 @@ Here, we give LeNet-5 trained under MNIST as a example.
 
 # How to train a trojaned model
   ```python
- python cifar_model.py
+ python trian_model.py
   ```
 
 
