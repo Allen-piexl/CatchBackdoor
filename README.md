@@ -21,7 +21,7 @@ Here, we give LeNet-5 trained under MNIST as a example.
   
 - Without benign examples
  ```python
-python CatchBackdoor_noise.py
+python CatchBackdoor-noise.py
   ```
   
 
