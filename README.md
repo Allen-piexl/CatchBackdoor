@@ -30,6 +30,6 @@ python visualization.py
   ```
 
 # Note
-This is a simple example of how CacthBackdoor hunts backdoors. We will improve the repository later.
+This is a simple example of how CatchBackdoor hunts backdoors. We will improve the repository later.
 
 See the paper CatchBackdoor: Backdoor Testing via Critical Trojan Neural Path Fuzzing for more details.
