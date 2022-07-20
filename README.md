@@ -8,7 +8,7 @@ The code should be run using python 3.6.0, Tensorflow-gpu 2.4.0, Keras 2.4.3, Fo
 Here, we give LeNet-5 trained under MNIST as a example.
 
 # How to train a trojaned model
- - BadNets model
+ - Trian a BadNets model
   ```python
  python trian_model.py
   ```
