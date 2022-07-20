@@ -192,7 +192,7 @@ def update_path(seeds, loss, model, iterat, k):
     loss = build_fcn_loss(model, empty_set[i], k)
     return loss
 #%%
-benign = np.load('./0_train.npy')
+benign = np.load('./Clean_training_data/0_train.npy')
 benign = np.expand_dims(benign, axis=3)
 
 
