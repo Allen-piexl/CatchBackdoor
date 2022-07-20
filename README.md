@@ -23,7 +23,11 @@ Here, we give LeNet-5 trained under MNIST as a example.
  ```python
 python CatchBackdoor-noise.py
   ```
-  
+
+- visualization
+ ```python
+python visualization.py
+  ```
 
 # Note
 See the paper CatchBackdoor: Backdoor Testing via Critical Trojan Neural Path Fuzzing for more details.
